@@ -1,1 +1,2 @@
-Some header text of this great header 
+Some header text of this great header
+Change from master branch  
