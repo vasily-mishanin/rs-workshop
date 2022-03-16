@@ -1,3 +1,4 @@
 Some header text of this great header
 Change from master branch
-Another change from <master>  
+Another change from <master>
+New adding changes from Amily
